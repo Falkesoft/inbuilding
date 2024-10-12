@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+  
+  .coming-soon {
+    text-align: center;
+  }
+  
+  .coming-soon img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .coming-soon h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .coming-soon p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .coming-soon a {
+    font-size: 2rem;
+    color: #333;
+    text-decoration: none;
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
+  .coming-soon a:hover {
+    color: #007bff;
+  }
+  
